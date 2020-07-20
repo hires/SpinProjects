@@ -8,7 +8,7 @@ This code is hereby released into the public domain and can be used for any
 purpose as long as the following conditions are met:
 
 * You will not use the code as-is. Please tweak it for your particular needs. After
-all, this code was already used on devices that were made so why would you want to just
+all, this code was already used on my own projects, so why would you want to just
 make the same thing?
 
 * There is no warranty or support of any kind. While I do my best to offer help with
